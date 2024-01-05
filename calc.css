@@ -13,15 +13,15 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-  }
+}
 
-  .container {
+.container {
     border: 2px solid white;
     padding: 20px;
     border-radius: 5px;
-  }
+}
 
-  #res {
+#res {
     position: relative;
     font-size: 30px;
     width: 94%;
@@ -32,9 +32,9 @@ body {
     border-radius: 5px;
     background: transparent;
     margin: 10px 0;
-  }
+}
   
-  .btn input[type='button'] {
+.btn input[type='button'] {
     width: 60px;
     height: 60px;
     border: 2px solid white;
@@ -44,4 +44,4 @@ body {
     margin: 10px 10px;
     font-size: 30px;
     text-align: center;
-  }
+}
