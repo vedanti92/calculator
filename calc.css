@@ -45,3 +45,7 @@ body {
     font-size: 30px;
     text-align: center;
 }
+
+.btn input[type='button']:hover {
+    cursor: pointer;
+}
