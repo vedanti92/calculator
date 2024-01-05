@@ -50,4 +50,6 @@ body {
     cursor: pointer;
     background-color: white;
     color: black;
+    transition: 0.2s ease-out;
+    border: none;
 }
