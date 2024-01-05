@@ -15,26 +15,33 @@ body {
     place-items: center;
   }
 
+  .container {
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
   #res {
     position: relative;
     font-size: 30px;
-    width: 80%;
-    height: 40px;
+    width: 94%;
+    height: 60px;
     text-align: right;
-    padding-right: 5px;
+    padding-right: 10px;
     border: 2px solid white;
-    border-radius: 3px;
+    border-radius: 5px;
     background: transparent;
+    margin: 10px 0;
   }
   
   .btn input[type='button'] {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border: 2px solid white;
-    border-radius: 3px;
+    border-radius: 5px;
     background: transparent;
     position: relative;
     margin: 10px 10px;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
   }
