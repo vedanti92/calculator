@@ -13,3 +13,8 @@ function Clear() {
     var input = document.getElementById('res')
     input.value = ''
 }
+
+function Back() {
+    var back = document.getElementById('res')
+    back.value = back.value.slice(0, -1)
+}
